@@ -7,7 +7,7 @@ Welcome to the **Guessing Game** repository! This is a fun and interactive web-b
 To get started with this project, follow these steps:
 
 1. **Navigate to the Project Directory**
-after navigating GuessingGame Project Directory click on the upper left corner <> Code then again
+after navigating GuessingGame Project Directory
 Above the list of files, click  <>Code(Green button).
 
 2. **Download the zip file**
