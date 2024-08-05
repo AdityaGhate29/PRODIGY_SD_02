@@ -6,17 +6,18 @@ Welcome to the **Guessing Game** repository! This is a fun and interactive web-b
 
 To get started with this project, follow these steps:
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/AdityaGhate29/PRODIGY_SD_02/GuessingGame.git
+1. **Navigate to the Project Directory**
+after navigating GuessingGame Project Directory click on the upper left corner <> Code then again
+Above the list of files, click  <>Code(Green button).
 
-2. **Navigate to the Project Directory**
+2. **Download the zip file**
+   Click  Download ZIP.
+   extract it on your PC
+  open the main file 
+
+3. **Open in your code editor**
+Simply open the -main file in your code editor > GuessingGame folder > index.html right click and show preview then start playing the game!
    
-bash
->> cd guessing-game
-
-3. **Open index.html in Your Browser**
-Simply open the index.html file in your web browser to start playing the game!
 
 ## 💻 Technologies Used
 HTML: Structuring the content of the game.
