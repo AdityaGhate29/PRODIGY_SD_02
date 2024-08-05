@@ -26,10 +26,9 @@ JavaScript: Implementing the game logic and user interaction.
 ## 🎨 Features
 Random Number Generation: The game generates a random number between 1 and 100.
 User Input: Players can enter their guesses through an input field.
-Feedback: Provides feedback if the guess is too high, too low, or correct.
+Feedback: Provide feedback if the guess is too high, too low, or correct.
 Attempt Tracking: Displays the number of attempts taken to guess the number.
-📸 Screenshots
-
+ 
 ## 🌟 Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
 
