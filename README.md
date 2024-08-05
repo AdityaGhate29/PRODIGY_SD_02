@@ -8,7 +8,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/AdityaGhate29/GuessingGame.git
+   git clone https://github.com/AdityaGhate29/PRODIGY_SD_02/GuessingGame.git
 
 2. **Navigate to the Project Directory**
    
