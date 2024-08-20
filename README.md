@@ -10,14 +10,23 @@ To get started with this project, follow these steps:
 after navigating GuessingGame Project Directory
 Above the list of files, click  <>Code(Green button).
 
-2. **Download the zip file**
+3. **Download the zip file**
    Click  Download ZIP.
    extract it on your PC
   open the main file 
 
-3. **Open in your code editor**
+4. **Open in your code editor**
 Simply open the -main file in your code editor > GuessingGame folder > index.html right click and show preview then start playing the game!
-   
+
+SCREENSHOTS:
+
+![Screenshot 2024-08-05 221418](https://github.com/user-attachments/assets/180b9043-a4e0-4325-81a3-f40212244266)
+
+![Screenshot 2024-08-05 221504](https://github.com/user-attachments/assets/bd6f6e21-8e16-4186-9727-526bce56d625)
+
+![Screenshot 2024-08-05 221605](https://github.com/user-attachments/assets/0683d0d9-9b2b-44a1-8fbb-0f1f736e54b7)
+
+
 
 ## 💻 Technologies Used
 HTML: Structuring the content of the game.
